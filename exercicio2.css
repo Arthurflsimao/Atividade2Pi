@@ -1,0 +1,25 @@
+.divA2
+{
+    background-color: rgb(200, 162, 200);
+    height: 250px;
+    width: 8px;
+    display: flex;
+    align-items: center;
+}
+
+.divB2
+{
+    background-color: #FF69B4;
+    height: divA2 100%;;
+    width: 200px;
+    border-width: 20px;
+    border-color: red;
+   align-items: center;
+}
+
+.divC2
+{
+    background-color: seagreen;
+    height:divA2 88%;
+    width: divA 30%;
+}
